@@ -1,0 +1,32 @@
+[
+  {
+    "id": "u1",
+    "name": "Alexandra Ilovan",
+    "email": "alexandra.ilovan@gmail.com"
+  },
+  {
+    "id": "u2",
+    "name": "Mihai Ionescu",
+    "email": "mihai.ionescu@gmail.com"
+  },
+  {
+    "id": "u3",
+    "name": "Ioana Popescu",
+    "email": "ioana.popescu@gmail.com"
+  },
+  {
+    "id": "u4",
+    "name": "Andrei Pop",
+    "email": "andrei.pop@gmail.com"
+  },
+  {
+    "id": "u5",
+    "name": "Maria Nistor",
+    "email": "maria.nistor@gmail.com"
+  },
+  {
+    "id": "u6",
+    "name": "Alex Turcsa",
+    "email": "alex.turcsa@gmail.com"
+  }
+]
